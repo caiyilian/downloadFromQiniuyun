@@ -1,0 +1,2 @@
+qiniu==7.9.0
+requests==2.28.1
